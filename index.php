@@ -37,9 +37,9 @@ http://www.templatemo.com/tm-477-puzzle
            <div class="col-lg-6 col-md-6 content-item content-item-1 background">
                <h2 class="main-title text-center dark-blue-text">Syarat dan Ketentuan</h2>
                <p>1. Jika ingin melihat barang antik atau ingin membeli harus menjadi <span class="light-blue-text">anggota</span>  terlebih dahulu</p>
-
-               <p>2. Anggota dapat menjual dan membeli barang antik</p>
-               <p>3. terdapat berbagai macam jenis barang antik</p>
+               <p>2. Daftar terlebih dahulu</p> 
+               <p>3. Anggota dapat menjual dan membeli barang antik</p>
+               <p>4. terdapat berbagai macam jenis barang antik</p>
 
                <a href="signup.php" <button type="button" class="btn btn-mid dark-blue-bordered-btn" </button>Signup</a>
 
@@ -64,7 +64,7 @@ http://www.templatemo.com/tm-477-puzzle
 
            </ul>
            <p>Ayo join sekarang juga dan temukan barang antik dan langka yang ingin kamu cari disini. </p>
-           <p>Curabitur vel rutrum augue, id tristique diam. Sed imperdiet quis ipsum a vulputate. Suspendisse sit amet nibh mi. </p>
+           <p>=================================================== </p>
        </div>
 
    </section>
@@ -72,7 +72,7 @@ http://www.templatemo.com/tm-477-puzzle
 
    <section class="col-md-12 content" id="">
        <div class="col-lg-6 col-md-6 content-item">
-           <img src="images/3.jpg" alt="Image" class="tm-image">
+           <img src="images/8.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 content-item background flexbox">
            <h2 class="section-title">Our Clients</h2>
@@ -91,32 +91,32 @@ http://www.templatemo.com/tm-477-puzzle
 
    <section class="col-md-12 content" id="contact">
        <div class="col-lg-6 col-md-6 col-md-push-6 content-item">
-           <img src="images/4.jpg" alt="Image" class="tm-image">
+           <img src="images/tlp.jpg" alt="Image" class="tm-image">
        </div>
        <div class="col-lg-6 col-md-6 col-md-pull-6 content-item background flexbox">
            <h2 class="section-title">Contact Us</h2>
-           <p class="margin-b-25">Nulla eget sem sit amet turpis tempus viverra at et odio. Cras vel eros id ipsum accumsan venenatis ut nec ipsum.</p>
+           <p class="margin-b-25">ingin tau info lebih lanjut silahkan dapat menghubungi kami, melalui dibawah ini :.</p>
 
            <!--<div class="row"> -->
            <form method="post" name="contact-form" class="contact-form">
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
                 <div class="form-group">
-                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name..." required>
+                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name" required>
                 </div>    
             </div>
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pad-l-3">
                 <div class="form-group contact-field">
-                    <input name="email" type="email" class="form-control" id="email" placeholder="Your Email..." required>
+                    <input name="email" type="email" class="form-control" id="email" placeholder="Your Email" required>
                 </div>    
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="form-group contact-field">
-                    <input name="subject" type="text" class="form-control" id="subject" placeholder="Your Subject..." required>
+                    <input name="subject" type="text" class="form-control" id="subject" placeholder="Your Subject" required>
                 </div>    
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="form-group contact-field">
-                    <textarea name="message" rows="5" class="form-control" id="message" placeholder="Write your message..." required></textarea>
+                    <textarea name="message" rows="5" class="form-control" id="message" placeholder="Write your message" required></textarea>
                 </div>    
             </div>
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -134,7 +134,7 @@ http://www.templatemo.com/tm-477-puzzle
 
 <footer class="col-md-12 content" id="externals">
  <div class="col-lg-6 col-md-6 last">
-   <img src="images/5.png" alt="Image" class="tm-image">
+   <img src="images/diecast.jpg" alt="Image" class="tm-image">
 </div>
 <div class="col-lg-6 col-md-6 background last about-text-container">
    <h2 class="section-title">About This Website</h2>
@@ -146,7 +146,7 @@ http://www.templatemo.com/tm-477-puzzle
 
 <div class="text-center footer">
 	<div class="container">
-		Copyright@
+		developers Abraham & AdiN
     </div>
 </div>
 
